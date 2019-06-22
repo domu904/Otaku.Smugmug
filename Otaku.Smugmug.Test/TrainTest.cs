@@ -23,6 +23,5 @@ namespace Otaku.Smugmug.Test
         {
             Assert.Pass();
         }
-
     }
 }
